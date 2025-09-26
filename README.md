@@ -16,8 +16,7 @@ This project is built using **HTML, CSS, and JavaScript** with a clean and moder
 ---
 
 ## 📂 Project Structure
-- `index.html` → Main page of the website  
-- `style.css` → Styling file for layout and responsiveness  
+- `index.html` → Main page of the website & Styling file for layout and responsiveness (inline CSS) 
 - `images/` → Contains all website images  
 
 ---
